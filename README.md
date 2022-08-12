@@ -28,4 +28,4 @@ if __name__ == '__main__':
 
 # sample img
 <br>
-<img src="https://github.com/hellomungi/Invesing_futures/blob/main/img/investing_futures.JPG?raw=true" />
+<img src="https://github.com/hellomungi/Franchise/blob/main/franc_sam_img.png?raw=true" />
