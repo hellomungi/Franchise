@@ -25,3 +25,7 @@ if __name__ == '__main__':
     fix_df.to_csv('./download/sep_FranChise_Pipe.csv', sep='|', encoding='utf-8-sig', index=False)
     fix_df.to_csv('./download/sep_FranChise.csv', encoding='utf-8-sig', index=False)
 ```
+
+# sample img
+<br>
+<img src="https://github.com/hellomungi/Invesing_futures/blob/main/img/investing_futures.JPG?raw=true" />
