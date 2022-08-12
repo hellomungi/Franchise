@@ -2,7 +2,8 @@
 프렌차이즈 공공데이터 수집
 각 기능은 Class 내 파일 별로 관리 됩니다.
 
-
+# MAIN.py
+```
 import pandas as pd
 
 from Class.detail_page_crawler import DetailPageToList
@@ -23,3 +24,4 @@ if __name__ == '__main__':
 
     fix_df.to_csv('./download/sep_FranChise_Pipe.csv', sep='|', encoding='utf-8-sig', index=False)
     fix_df.to_csv('./download/sep_FranChise.csv', encoding='utf-8-sig', index=False)
+```
